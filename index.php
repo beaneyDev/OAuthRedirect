@@ -1,1 +1,5 @@
-<?php include_once("redirect-web.html"); ?>
+<?php 
+
+echo $_GET['email'];
+
+?>
